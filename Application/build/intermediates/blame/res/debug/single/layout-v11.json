@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\project_workspace\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ts.ha\\.android\\build-cache\\73f5dea4b6fa432988cc9a1bdc8775f7e7deb76c\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\project_workspace\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\ts.ha\\.android\\build-cache\\73f5dea4b6fa432988cc9a1bdc8775f7e7deb76c\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\project_workspace\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ts.ha\\.android\\build-cache\\73f5dea4b6fa432988cc9a1bdc8775f7e7deb76c\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\project_workspace\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ts.ha\\.android\\build-cache\\73f5dea4b6fa432988cc9a1bdc8775f7e7deb76c\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\project_workspace\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ts.ha\\.android\\build-cache\\73f5dea4b6fa432988cc9a1bdc8775f7e7deb76c\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\project_workspace\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ts.ha\\.android\\build-cache\\73f5dea4b6fa432988cc9a1bdc8775f7e7deb76c\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    }
+]

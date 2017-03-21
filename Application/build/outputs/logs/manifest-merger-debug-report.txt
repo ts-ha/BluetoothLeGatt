@@ -1,0 +1,306 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:18:1-67:12
+	package
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:19:5-50
+	android:versionName
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:18:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:29:5-31:35
+	android:required
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:31:9-32
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:30:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:33:5-68
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:34:5-74
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:35:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:36:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:37:5-68
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\31970e841b1fa82c80b10a2ec99525e52cc07cf5\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\e4078f92d41063b29bc20dc8dfeaa67adc22a114\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\4c035127cde7364ed7192ed311c786d4d6fa84b1\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:37:22-65
+application
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:39:9-65:19
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\ts.ha\.android\build-cache\454204ad5fb698757fe3e7eb0d9f64cf66353f78\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\ts.ha\.android\build-cache\aeb6d14b34ebdfeb17ad2e94cd72d2df02ffb081\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\ts.ha\.android\build-cache\9055cd75cccb1678dcec3b7305aa8f8e10e04001\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\ts.ha\.android\build-cache\823e0a8f474f91c52f2a4ac19180a2effd70a7aa\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\31970e841b1fa82c80b10a2ec99525e52cc07cf5\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\ts.ha\.android\build-cache\8ba502cea1ab19c64fb7f0538dbb52d2661938ae\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\ts.ha\.android\build-cache\fbdbcb6de1825ca18a3e464ae6c4a35dc02631f8\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\ts.ha\.android\build-cache\5cc465c62cad14810660e8f596136d44bbdc4ff8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\e4078f92d41063b29bc20dc8dfeaa67adc22a114\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\a2ac6ad3a72df6433fa6e667156c2b4ed3b9dfaa\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\4c035127cde7364ed7192ed311c786d4d6fa84b1\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\ts.ha\.android\build-cache\72c747cbeaa4554d6b3a287967894998b107a8fd\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\ts.ha\.android\build-cache\e7ca2be9442a2d84e3a58d7ce1901c3288af36ea\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\ts.ha\.android\build-cache\486a3cbb1b3aad6fd9d305a7291d2c2b187f991e\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\ts.ha\.android\build-cache\a72cbffbb5c03e90ba86c83ec4c4eafc1b7988cc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\ts.ha\.android\build-cache\73f5dea4b6fa432988cc9a1bdc8775f7e7deb76c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\ts.ha\.android\build-cache\eca24ad388be4a2f706611f59a1393b36aac974d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\ts.ha\.android\build-cache\73eae27b50387a492da7a47a1b6213f824e2d889\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\ts.ha\.android\build-cache\8ed9ac5834894f67435fbe93ad79b315aa092c59\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\ts.ha\.android\build-cache\39330736e99949839c2573f02cf6c05db34d7499\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\ts.ha\.android\build-cache\9a4a7c9f36ef1e5500cc51f9d0d1e0d8977f1b2b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\ts.ha\.android\build-cache\7cb1ec8bdbd1b26637cf59b188c775dc4ddc032f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\ts.ha\.android\build-cache\1efb367833b07638b28f61fde68cbb7cbd133b23\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\ts.ha\.android\build-cache\d80da38f46d94794550bdf5ab2bc4005b4a9aacb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\ts.ha\.android\build-cache\d40075b97e5146dd20ae2f85b8cd1474a05e40e0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ts.ha\.android\build-cache\41db0da0c7129104ec18007ec7ce8f6c9ad1f2be\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:41:9-41
+	android:icon
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:40:9-45
+	android:theme
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:42:9-40
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:43:9-50:20
+	android:label
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:44:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:46:13-49:29
+action#android.intent.action.MAIN
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:48:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:51:9-59
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:51:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:53:9-55:38
+	android:enabled
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:55:13-35
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:54:13-47
+service#com.example.android.bluetoothlegatt.service.AutoConnectService
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:56:9-97
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:56:18-95
+receiver#com.example.android.bluetoothlegatt.service.BootCompleteReceiver
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:57:9-64:20
+	android:enabled
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:59:13-35
+	android:exported
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:60:13-36
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:58:13-92
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:61:13-63:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:62:17-79
+	android:name
+		ADDED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:62:25-76
+uses-sdk
+INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\ts.ha\.android\build-cache\454204ad5fb698757fe3e7eb0d9f64cf66353f78\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\ts.ha\.android\build-cache\aeb6d14b34ebdfeb17ad2e94cd72d2df02ffb081\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\ts.ha\.android\build-cache\9055cd75cccb1678dcec3b7305aa8f8e10e04001\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\ts.ha\.android\build-cache\823e0a8f474f91c52f2a4ac19180a2effd70a7aa\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\31970e841b1fa82c80b10a2ec99525e52cc07cf5\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\ts.ha\.android\build-cache\8ba502cea1ab19c64fb7f0538dbb52d2661938ae\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\ts.ha\.android\build-cache\fbdbcb6de1825ca18a3e464ae6c4a35dc02631f8\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\ts.ha\.android\build-cache\5cc465c62cad14810660e8f596136d44bbdc4ff8\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\e4078f92d41063b29bc20dc8dfeaa67adc22a114\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\a2ac6ad3a72df6433fa6e667156c2b4ed3b9dfaa\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\4c035127cde7364ed7192ed311c786d4d6fa84b1\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\ts.ha\.android\build-cache\72c747cbeaa4554d6b3a287967894998b107a8fd\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\ts.ha\.android\build-cache\e7ca2be9442a2d84e3a58d7ce1901c3288af36ea\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\ts.ha\.android\build-cache\486a3cbb1b3aad6fd9d305a7291d2c2b187f991e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:25.1.1] C:\Users\ts.ha\.android\build-cache\a72cbffbb5c03e90ba86c83ec4c4eafc1b7988cc\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\ts.ha\.android\build-cache\73f5dea4b6fa432988cc9a1bdc8775f7e7deb76c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\ts.ha\.android\build-cache\eca24ad388be4a2f706611f59a1393b36aac974d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\ts.ha\.android\build-cache\73eae27b50387a492da7a47a1b6213f824e2d889\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\ts.ha\.android\build-cache\50788efacf8bc59a81ff3e23fdf6b7c37e5ec6e1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\ts.ha\.android\build-cache\8ed9ac5834894f67435fbe93ad79b315aa092c59\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\ts.ha\.android\build-cache\39330736e99949839c2573f02cf6c05db34d7499\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\ts.ha\.android\build-cache\9a4a7c9f36ef1e5500cc51f9d0d1e0d8977f1b2b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\ts.ha\.android\build-cache\7cb1ec8bdbd1b26637cf59b188c775dc4ddc032f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\ts.ha\.android\build-cache\1efb367833b07638b28f61fde68cbb7cbd133b23\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\ts.ha\.android\build-cache\d80da38f46d94794550bdf5ab2bc4005b4a9aacb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\ts.ha\.android\build-cache\d40075b97e5146dd20ae2f85b8cd1474a05e40e0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ts.ha\.android\build-cache\41db0da0c7129104ec18007ec7ce8f6c9ad1f2be\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.0.1] C:\Users\ts.ha\.android\build-cache\454204ad5fb698757fe3e7eb0d9f64cf66353f78\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\ts.ha\.android\build-cache\9055cd75cccb1678dcec3b7305aa8f8e10e04001\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\31970e841b1fa82c80b10a2ec99525e52cc07cf5\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\ts.ha\.android\build-cache\fbdbcb6de1825ca18a3e464ae6c4a35dc02631f8\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\e4078f92d41063b29bc20dc8dfeaa67adc22a114\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\4c035127cde7364ed7192ed311c786d4d6fa84b1\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\ts.ha\.android\build-cache\9055cd75cccb1678dcec3b7305aa8f8e10e04001\output\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\31970e841b1fa82c80b10a2ec99525e52cc07cf5\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\ts.ha\.android\build-cache\fbdbcb6de1825ca18a3e464ae6c4a35dc02631f8\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\e4078f92d41063b29bc20dc8dfeaa67adc22a114\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\4c035127cde7364ed7192ed311c786d4d6fa84b1\output\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:21:22-76
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\31970e841b1fa82c80b10a2ec99525e52cc07cf5\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\ts.ha\.android\build-cache\31970e841b1fa82c80b10a2ec99525e52cc07cf5\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\ts.ha\.android\build-cache\683f53690a4473b600d0920dfa991d16ac2ce5fb\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:24:17-71
+		INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:26:22-76
+		INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:34:27-58
+		INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\ts.ha\.android\build-cache\e76cdf933427ee5e101cb58bf4f2c3823efefc09\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\ts.ha\.android\build-cache\8ba502cea1ab19c64fb7f0538dbb52d2661938ae\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\ts.ha\.android\build-cache\8ba502cea1ab19c64fb7f0538dbb52d2661938ae\output\AndroidManifest.xml:6:19-78
+		INJECTED from D:\project_workspace\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\ts.ha\.android\build-cache\8ba502cea1ab19c64fb7f0538dbb52d2661938ae\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\ts.ha\.android\build-cache\8ba502cea1ab19c64fb7f0538dbb52d2661938ae\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\ts.ha\.android\build-cache\8ba502cea1ab19c64fb7f0538dbb52d2661938ae\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\ts.ha\.android\build-cache\fbdbcb6de1825ca18a3e464ae6c4a35dc02631f8\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\ts.ha\.android\build-cache\fbdbcb6de1825ca18a3e464ae6c4a35dc02631f8\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\ts.ha\.android\build-cache\fbdbcb6de1825ca18a3e464ae6c4a35dc02631f8\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\ts.ha\.android\build-cache\72c747cbeaa4554d6b3a287967894998b107a8fd\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\ts.ha\.android\build-cache\72c747cbeaa4554d6b3a287967894998b107a8fd\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\ts.ha\.android\build-cache\72c747cbeaa4554d6b3a287967894998b107a8fd\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\ts.ha\.android\build-cache\72c747cbeaa4554d6b3a287967894998b107a8fd\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\ts.ha\.android\build-cache\486a3cbb1b3aad6fd9d305a7291d2c2b187f991e\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\ts.ha\.android\build-cache\486a3cbb1b3aad6fd9d305a7291d2c2b187f991e\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\ts.ha\.android\build-cache\486a3cbb1b3aad6fd9d305a7291d2c2b187f991e\output\AndroidManifest.xml:20:20-65
