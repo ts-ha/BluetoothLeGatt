@@ -5,3 +5,4 @@
 4. 출근 체크 후 다음 날 08:30 분에 동작하도록 세팅
 
 ps) 안드로이드 mvvm 개발 팬턴 적용
+https://developer.android.com/topic/libraries/data-binding/index.html?hl=ko
